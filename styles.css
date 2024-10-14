@@ -24,10 +24,13 @@
 body {
   width: 100%;
   height: 100vh;
+
   background-color: #e4ece9;
+
   display: flex;
   flex-direction: column;
   align-items: center;
+
   color: #1f2523;
 }
 
@@ -47,6 +50,7 @@ form {
   border-radius: 1rem;
   padding: 2.5rem;
   max-width: 462px;
+
   display: flex;
   flex-direction: column;
 }
